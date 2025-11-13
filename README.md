@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+**Student Developer**  
+
+Currently learning and improving in:
+- **AI & Machine Learning**
+- **Python**
+- **PyTorch**
+- **Flutter**
+- **C++**
 <!--
 **Fqrina/Fqrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
