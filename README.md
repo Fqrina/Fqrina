@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 **Student Developer**  
+Currently working at writing my own AI & NN Library
+using my deep technical knowledge about Neural Network to backpropagation
 
 Currently learning and improving in:
 - **AI & Machine Learning**
